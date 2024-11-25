@@ -24,7 +24,7 @@ mdc: true
 overviewSnapshots: true
 ---
 
-# Welcome to Slidev
+# Welcome to Slidev 練習のためサンプルを公開
 
 Presentation slides for developers
 
